@@ -21,6 +21,14 @@ Deployed Link :   https://codefuse-c88s.onrender.com
 </p>
 
 
+## video Demonstration
+
+
+https://github.com/user-attachments/assets/28dfd551-1d6c-4f95-9baf-21c222620c22
+
+
+
+
 ## Table of Contents
 
 - [ Overview](#-overview)
@@ -46,7 +54,6 @@ CodeFuse is a **Real-Time Interactive Coding Collaborator** that allows develope
 ---
 
 ## Features
-
 - **Real-Time Collaboration**: Multiple developers can write and edit code simultaneously.
 - **Syntax Highlighting**: Support for popular programming languages.
 - **Integrated Chat**: In-app communication for real-time discussions.
